@@ -1,0 +1,18 @@
+.Image2{
+  
+    width: 14rem; 
+}
+.Image2 img{
+    width: 12rem;
+    height: 10rem;
+    margin: 0px auto;
+  
+}
+.Cart{
+    text-align: center;
+    color: maroon;
+    background-color: red;
+  
+   
+
+}

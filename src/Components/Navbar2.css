@@ -1,0 +1,15 @@
+.Navbar2 {
+    
+    display: flex;
+    background-color:red;
+    color: white;
+    margin: 0px auto;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+}
+.Navbar2 div{
+   
+    width: 10rem;
+    padding: 10px;
+}
